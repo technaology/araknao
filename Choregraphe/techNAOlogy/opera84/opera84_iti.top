@@ -1,0 +1,17 @@
+topic: ~opera84()
+language: iti
+
+# Defining extra concepts out of words or group of words
+#concept:(hello) [hello hi hey "good morning" greetings]
+
+# Catching inputs and triggering outputs
+#u:(e:onStart) $onStopped=1
+
+# Replying to speech
+#u:(~hello) ~hello
+
+u:(come si chiama quest'opera?) Si tratta della Danza in piazza, un dipinto di Luigi Caiuli.
+u:(cosa raffigura?) In primo piano si riconoscono tre donne che danzano in piazza, osservate da una folla posta dietro un elemento architettonico. Le tre donne sono raffigurate in maniera naturalistica; rappresentano le donne del popolo, che punte dal ragno, danzavano in piazza per sfogarsi.
+u:(arrivederci) Arrivederci, se hai altre domande, non esitare a chiedere! $esci=1
+u:(ciao) Ciao, alla prossima! $esci=1
+

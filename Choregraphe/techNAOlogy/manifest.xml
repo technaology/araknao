@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package installOnlyAtStartup="false" version="0.0.0" uuid="technaology_camminwait-eae2d0">
+ <names>
+  <name lang="en_US">Nao socket2</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+  <language>it_IT</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+  <language>it_IT</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
